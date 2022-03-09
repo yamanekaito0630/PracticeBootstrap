@@ -34,6 +34,12 @@ p {
 }
 
 /* ----------------------------------------------- ナビゲーションバー */
+nav{
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    background-color: #fff;
+}
 .navbar_brand_logo {
     width: 32px;
     height: 32px;
