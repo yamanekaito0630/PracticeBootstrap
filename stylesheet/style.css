@@ -35,7 +35,7 @@ p {
 
 /* ----------------------------------------------- ナビゲーションバー */
 nav{
-    position: fixed;
+    position: fixed!important;
     width: 100%;
     z-index: 10;
     background-color: #fff;
